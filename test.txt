@@ -1,0 +1,3 @@
+this is testing 2
+pushing local branch version_1
+to remoted branch version_1(before master branch, i changed the name)
